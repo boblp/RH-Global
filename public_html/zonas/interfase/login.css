@@ -1,0 +1,71 @@
+body {
+	background-color: #5e5e5e;
+	background-image: url(bgmain.gif);
+	background-repeat: repeat-x;
+	margin: 0px;
+	text-align: center;
+}
+
+* {
+	margin-top: 0px;
+	font-family: "Trebuchet MS", Verdana, Tahoma;
+}
+
+#loginbox {
+	display: block;
+	position: relative;
+	width: 400px;
+	background-color: #ffffff;
+	margin: 80px auto;
+	text-align: left;
+	padding-bottom: 10px;
+}
+
+#header {
+	position: relative;
+	margin: 0px 10px 10px 10px;
+	border-top: 10px solid #ffffff;
+	height: 80px;
+	background-image: url(bgmainclear.gif);
+	overflow: hidden;
+}
+
+#header h1 {
+	font-size: 18pt;
+	font-weight: normal;
+	color: #ffffff;
+	text-align: right;
+	margin: 0px;
+	padding: 10px;
+}
+
+
+#cuerpo {
+	position: relative;
+	margin: 10px 10px 0px 10px;
+	background-image: url(bodybg.gif);
+	background-repeat: repeat-x;
+	background-color: #F4F1EE;
+	height: 200px;
+	border-bottom: 1px solid #e6e4e1;
+	text-align: center;
+}
+
+#cuerpo form {
+	padding: 50px 10px;
+	margin: auto;
+}
+
+#cuerpo table {
+	margin: auto;
+}
+
+#cuerpo form label {
+	font-size: 13pt;
+	font-weight: normal;
+	color: #9e988c;	
+}
+
+#cuerpo form input {
+	font-size: 10pt;
+}

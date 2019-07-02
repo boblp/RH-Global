@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+	<album title="Presentación" description="RH Global, Soluciones globales en recursos humanos.Un equipo de profesionales trabajando para que tu empresa obtenga el mejor rendimiento." lgPath="presenta/lg/" tnPath="presenta/tn/" tn="presenta/ico.jpg">
+		<img src="intro.swf" />
+		<img src="bienvenido.jpg" />
+		<img src="contratacion.jpg" />
+		<img src="investigacion.jpg" />
+		<img src="invonline.jpg" />
+		<img src="outsource.jpg" />
+		<img src="compensaciones.jpg" />
+		<img src="clima.jpg" />
+		<img src="consultoria.jpg" />
+		<img src="cierre.jpg" />
+		<img src="contacto.jpg" />
+	</album>
+</gallery>

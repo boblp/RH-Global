@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+  <accion>rs</accion>
+  <vars>
+  	<qr>lista_candidatos_pendientes</qr>
+    <guid>0123abc</guid>
+    <usrid>4</usrid>
+    <candid>1007</candid>
+    <empid>33</empid>
+  </vars>
+</request>

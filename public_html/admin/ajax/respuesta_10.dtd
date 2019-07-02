@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT paws (respuesta, contenido)>
+<!ELEMENT respuesta (resultado, mensaje)>
+<!ELEMENT resultado (#PCDATA)>
+<!ELEMENT mensaje (#PCDATA)>
+<!ELEMENT contenido (item)>
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+          tipo (html | js) #REQUIRED
+          encoding (b64 | raw) #REQUIRED>

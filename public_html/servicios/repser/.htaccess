@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "Reporting Services"
+
+
+
+require valid-user
+AuthUserFile "/home/rhglobal/.htpasswds/public_html/servicios/repser/passwd"

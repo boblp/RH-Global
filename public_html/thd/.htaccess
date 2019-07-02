@@ -1,0 +1,33 @@
+#######################################
+
+#Configuracion PHP
+
+#######################################
+
+
+
+#php_value include_path ".;D:\Proyectos\Invex\www\thd\framework/;D:\Proyectos\Invex\www\thd\secciones/"
+
+#php_value include_path ".:/home/rhglobal/public_html/thd/framework/:/home/rhglobal/public_html/thd/secciones/"
+
+#php_value register_globals 0
+
+#php_value magic_quotes_gpc 1
+
+#php_value short_open_tag 0
+
+
+
+
+
+#######################################
+
+#Redirecciones
+
+#######################################
+
+
+
+RewriteEngine On
+
+RewriteRule ^descargabdt/([a-zA-Z0-9]{32})/([0-9]+)$ curriculum.php?ver=$1&id=$2

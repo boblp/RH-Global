@@ -1,0 +1,1 @@
+<h1 style="text-align:center;color:#d3d0c9;padding-top:40px;">No estás autorizado<br />para ver esta sección</h1>

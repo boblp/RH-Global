@@ -1,0 +1,2792 @@
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 75891
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 75891
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => detalle_datos_candidato
+            [candid] => 75930
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => lista_empleos_candidato
+            [candid] => 75930
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_pendientes
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_asignados
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 75860
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 75860
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75860
+                    [datos] => Array
+                        (
+                            [nombre] => PATRICIA YANET DELGADO MEDINA 
+                            [domicilio] => CALLE PUEBLA #3 COL. TLILIXTOC  C.P. 72227
+                            [ciudad] => PUEBLA, PUE
+                            [telefono] => 0442221474926
+                            [telefonorec] => 
+                            [imss] => 45077500986
+                            [estatus] => 3
+                            [msgcte] => 
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 75861
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 75861
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75861
+                    [datos] => Array
+                        (
+                            [nombre] => JOSUE ANGEL HERNANDEZ VILLANUEVA 
+                            [domicilio] => MANUEL AVILA CAMACHO #40 COL SAN PEDRO 
+                            [ciudad] => PUEBLA 
+                            [telefono] => 0442221881730
+                            [telefonorec] => 
+                            [imss] => 48038608237
+                            [estatus] => 3
+                            [msgcte] => 
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 75891
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 75891
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => detalle_datos_candidato
+            [candid] => 75929
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => lista_empleos_candidato
+            [candid] => 75929
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => lista_candidatos_pendientes
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => toma
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [candid] => 75934
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => lista_candidatos_asignados
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => detalle_datos_candidato
+            [candid] => 75934
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => lista_empleos_candidato
+            [candid] => 75934
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_pendientes
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_asignados
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 75891
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => lista_candidatos_pendientes
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 75891
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => toma
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [candid] => 75931
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => lista_candidatos_asignados
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => detalle_datos_candidato
+            [candid] => 75931
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => 63465d50-efbc-4130-9385-2ace65161e73
+            [usrid] => 28
+            [qr] => lista_empleos_candidato
+            [candid] => 75931
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => se habla con Laura Rodarte 
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => login
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usr] => acavazos
+            [pwd] => 658891e64545e8c888e0b6708c3f7b96
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_asignados
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 75891
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 75891
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => se contacta con laura rodarte menciona que el candidato laboro 
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => se contacta con laura rodarte menciona que el candidato laboro en la empresa con el puesto de operador fecha d eingreso fue el 
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => se contacta con laura rodarte menciona que el candidato laboro en la empresa con el puesto de operador fecha d eingreso fue el 15 de ocutbre dek 2010 
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => se contacta con laura rodarte menciona que el candidato laboro en la empresa con el puesto de operador fecha d eingreso fue el 15 de ocutbre dek 2010 menciona que no laura ljuop juhuggunny
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => se contacta con laura rodarte menciona que el candidato laboro en la empresa con el puesto de operador fecha d eingreso fue el 15 de ocutbre dek 2010 menciona que no laura ljuop juhuggunny gfgfdhgdhgdddhdg
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => se contacta con laura rodarte menciona que el candidato laboro en la empresa con el puesto de operador fecha d eingreso fue el 15 de ocutbre dek 2010 menciona que no laura ljuop juhuggunny gfgfdhgdhgdddhdg ghdydvtiitrvuvrur
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => se contacta con laura rodarte menciona que el candidato laboro en la empresa con el puesto de operador fecha d eingreso fue el 15 de ocutbre dek 2010 menciona que no laura ljuop juhuggunny gfgfdhgdhgdddhdg ghdydvtiitrvuvrur uihj78th86t9868t8t88
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => Nuestra opinion
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 75891
+                    [datos] => Array
+                        (
+                            [comentariosgral] => Nuestra opinion conforme a la Nuestra opinion conforme a la informacion ofrecida por ustedes y verificada por nosotros es la siguiente el candidato nunca ha participado en Proceso Judicial de ningun tipo por lo cual recomendamos su contrataci\n
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_pendientes
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => toma
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_asignados
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => empleos
+                    [elemid] => 66832
+                    [datos] => Array
+                        (
+                            [lada] => 
+                            [telefonos] => 1325927
+                            [puesto] => Administrado de Sucursal
+                            [jefe] => Ruth Coloca Castillo
+                            [fechaing] => 19 /01/08
+                            [fechabaja] => 23/08/08
+                            [motivobaja] => Liquidacion por termino de proyecto
+                            [comentarios] => uhfuregfigrgrgituerhuigfheruihguerhughreughuerhguheruhguerhugihe
+                            [omitido] => 0
+                            [difiere] => 0
+                            [orden] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => empleos
+                    [elemid] => 66833
+                    [datos] => Array
+                        (
+                            [lada] => 0173
+                            [telefonos] => 87357672
+                            [puesto] => Jefe Administrativo
+                            [jefe] => Hernan Hernandez
+                            [fechaing] => 24/01/ 2002
+                            [fechabaja] => 28/02/2007
+                            [motivobaja] => Renuncia por Embarazo
+                            [comentarios] => jfhgjsdhghsfhgogweinmgonewrgonwreog ortngweirytnoieqryntywert yertnwperiontywre
+                            [omitido] => 0
+                            [difiere] => 0
+                            [orden] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 30701
+                    [datos] => Array
+                        (
+                            [estatus] => 4
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => login
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usr] => acavazos
+            [pwd] => 658891e64545e8c888e0b6708c3f7b96
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 30701
+                    [datos] => Array
+                        (
+                            [comentariosgral] => Nuestra opinion conforme a la informacion ofrecida por ustedes y verificada por nosotros es la siguiente el candidato nunca ha participado en Proceso Judicial de ningun tipo por lo cual recomendamos su contratacion\n
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 30701
+                    [datos] => Array
+                        (
+                            [comentariosjud] => no hay pedo
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 30701
+                    [datos] => Array
+                        (
+                            [comentariossind] => dfjadgjsrykywtlk
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [tsaffect] => true
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 30701
+                    [datos] => Array
+                        (
+                            [resultado] => 1
+                            [estatus] => 16
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_asignados
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => empleos
+                    [elemid] => 66832
+                    [datos] => Array
+                        (
+                            [lada] => 
+                            [telefonos] => 1325927
+                            [puesto] => Administrado de Sucursal
+                            [jefe] => Ruth Coloca Castillo
+                            [fechaing] => 19 /01/08
+                            [fechabaja] => 23/08/08
+                            [motivobaja] => Liquidacion por termino de proyecto
+                            [comentarios] => uhfuregfigrgrgituerhuigfheruihguerhughreughuerhguheruhguerhugihe
+                            [omitido] => 0
+                            [difiere] => 0
+                            [orden] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => empleos
+                    [elemid] => 66833
+                    [datos] => Array
+                        (
+                            [lada] => 0173
+                            [telefonos] => 87357672
+                            [puesto] => Jefe Administrativo
+                            [jefe] => Hernan Hernandez
+                            [fechaing] => 24/01/ 2002
+                            [fechabaja] => 28/02/2007
+                            [motivobaja] => Renuncia por Embarazo
+                            [comentarios] => jfhgjsdhghsfhgogweinmgonewrgonwreog ortngweirytnoieqryntywert yertnwperiontywre
+                            [omitido] => 0
+                            [difiere] => 0
+                            [orden] => 2
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 30701
+                    [datos] => Array
+                        (
+                            [estatus] => 4
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_asignados
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => detalle_datos_candidato
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_empleos_candidato
+            [candid] => 30701
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => run
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [tsaffect] => true
+        )
+
+    [queries] => Array
+        (
+            [0] => Array
+                (
+                    [tabla] => candidatos
+                    [elemid] => 30701
+                    [datos] => Array
+                        (
+                            [resultado] => 1
+                            [estatus] => 16
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [main] => Array
+        (
+            [accion] => rs
+        )
+
+    [vars] => Array
+        (
+            [guid] => aea8adaf-2826-44af-9d2a-75a85ea92acc
+            [usrid] => 18
+            [qr] => lista_candidatos_fin
+        )
+
+)
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+  <accion>run</accion>
+  <vars>
+    <guid>0123abc</guid>
+  </vars>
+  <queries>
+    <query>
+      <tabla>candidatos</tabla>
+      <elemid>8</elemid>
+      <datos>
+        <candidato_id>8</candidato_id>
+        <nombre>Juan Carlos Osorio</nombre>
+        <ciudad>Guadalajara</ciudad>
+      </datos>
+    </query>
+    <query>
+      <tabla>empleos</tabla>
+      <elemid>24</elemid>
+      <datos>
+        <empleo_id>24</empleo_id>
+        <inicio>2004-05-06</inicio>
+        <fin>2005-04-21</fin>
+        <comentarios>Este es uno un poco más complejo, pues tendrá caracteres latinos.
+Además incluye saltos de línea.</comentarios>
+      </datos>
+    </query>
+  </queries>
+</request>

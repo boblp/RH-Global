@@ -1,0 +1,11 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling d:\PROYEC~1\Invex\Prod\Manual\CHM\Invex.chm
+
+HHC5003: Error: Compilation failed while compiling http:\www.invexconsultores.com.
+HHC5003: Error: Compilation failed while compiling http:\servicios.invexconsultore.
+
+
+The following files were not compiled:
+http:\www.invexconsultores.com
+http:\servicios.invexconsultore

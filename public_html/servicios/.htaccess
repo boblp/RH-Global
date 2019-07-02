@@ -1,0 +1,25 @@
+#######################################
+#Configuracion PHP
+#######################################
+
+
+#php_value include_path ".;C:\www\rhglobal\servicios\framework/;C:\www\rhglobal\servicios\secciones/"
+#php_value include_path ".:/home/rhglobal/public_html/servicios/framework/:/home/rhglobal/public_html/servicios/secciones/"
+#php_value register_globals 0
+#php_value magic_quotes_gpc 1
+#php_value short_open_tag 0
+
+
+#######################################
+#Redirecciones
+#######################################
+
+RewriteEngine On
+RewriteRule ^(nuevos|proceso|terminados|familiares)/?([a-z0-9]+)?$ index.php?base=$1&folio=$2
+RewriteRule salir$ index.php?salir=salir
+RewriteRule ^ajaxserver/([a-z0-9]+)\.ajax ajax/paws.php?servicio=$1
+RewriteRule ^reportingservices/([0-9]+)\.pdf reporte.php?tipo=secure&candid=$1
+RewriteRule ^reporteadmin/([0-9]+)rcd/([0-9]+) proxyreporte.php?candid=$2
+RewriteRule ^reporteadmin/view/([0-9]+)\.pdf reporte.php?candid=$1&tipo=admin
+RewriteRule ^repser/fd/(r|d|u)/([0-9]{4,6})/([0-9]+)$ repser/fdata.php?q=$1&f=$2
+RewriteRule ^edc/(s|a)/(([a-z]+)|([0-9]+))/([a-zA-Z0-9]+)/([0-9]+)O([0-9]+)O([0-9]+)(-f|-u)?\.pdf$ edcuenta.php?tipo=$1&tid=$2&verif=$5&elemid=$6&fini=$7&ffin=$8&fff=$9

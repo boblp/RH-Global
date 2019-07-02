@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+  <accion>toma</accion>
+  <vars>
+    <guid>0123abc</guid>
+    <usrid>4</usrid>
+    <candid>1007</candid>
+  </vars>
+</request>

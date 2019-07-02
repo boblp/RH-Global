@@ -1,0 +1,15 @@
+body {
+	background-color: #5e5e5e;
+	background-image: url(bgmain.gif);
+	background-repeat: repeat-x;
+	margin: 50px;
+	text-align: center;
+}
+
+p.errreq {
+	background-color: #454545;
+	padding: 10px;
+	color: #ffffff;
+	font-family: "Trebuchet MS", Verdana, Tahoma, sans-serif;
+	font-size: small;
+}

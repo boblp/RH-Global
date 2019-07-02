@@ -1,0 +1,275 @@
+body {
+	background-color: #ffffff;
+	background-image: url(bg.gif);
+	background-repeat: repeat-x;
+	display: block;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+#main {
+	display: block;
+	position: relative;
+	width: 770px;
+	margin: 0px auto;
+	text-align: left;
+}
+
+#header {
+	display: block;
+	position: relative;
+	width: 770px;
+	height: 175px;
+	overflow: hidden;
+	background-image: url(head_bg.gif);
+}
+
+#header h1 {
+	display: block;
+	position: absolute;
+	margin: 0px;
+	top: 0px;
+	left: 0px;
+	width: 250px;
+	height: 120px;
+	overflow: hidden;
+}
+
+#header h1 a:link, #header h1 a:visited {
+	display: block;
+}
+
+#header h1 a span {
+	display: block;
+	padding-top: 130px;
+}
+
+#topmsg {
+	display: block;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 175px;
+	width: 770px;
+	background-position: right top;
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+	padding: 135px 310px 0px 0px;
+	font-weight: normal;
+	color: #F8E4C0;
+	
+}
+
+.img1 {	background-image: url(img1.jpg);}
+.img2 {	background-image: url(img2.jpg);}
+.img3 {	background-image: url(img3.jpg);}
+.img4 {	background-image: url(img4.jpg);}
+.img5 {	background-image: url(img5.jpg);}
+.img6 {	background-image: url(img6.jpg);}
+
+#nav {
+	display: block;
+	position: relative;
+	padding-bottom: 25px;
+	overflow: auto;
+}
+#nav ul {
+	display: block;
+	position: relative;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#nav ul li {
+	display: inline;
+	position: relative;
+	float: left;
+	margin-right: 5px;
+	background-image: url(btn_body.gif);
+	background-position: left bottom;
+}
+
+#nav ul li a:link, #nav ul li a:visited {
+	display: block;
+	position: relative;
+	padding: 3px 10px;
+	text-decoration: none;
+	color: #F8E4C0;
+	background-position: right bottom;
+	background-image: url(btn_cap_off.gif);
+	background-repeat: no-repeat;
+}
+
+#nav ul li a:hover {
+	color: #ffffff;
+	background-image: url(btn_cap_on.gif);
+}
+
+#nav ul li a.active:link, #nav ul li a.active:visited, #nav ul li a.active:hover {
+	color: #feff1a;
+	background-image: url(btn_cap_on.gif);
+	cursor: default;
+}
+
+#content {
+	font-size: 10pt;
+	clear: both;
+}
+
+.highlight {
+	display: block;
+	position: relative;
+	margin: 15px 0px;
+	padding: 20px;
+	background-color: #E2DCCD;
+	border: 5px solid #BCB298;
+	overflow: auto;
+	color: #706347;
+}
+
+.highlight h3 {
+	display: block;
+	font-size: 22pt;
+	color: #8B7D5A;
+	font-style: italic;
+	margin: 0px;
+}
+
+#hl_home {
+	background-image: url(hl_home.gif);
+	display: inline;
+	float: right;
+	width: 120px;
+	height: 300px;
+}
+
+.portals {
+	display: block;
+	height: 170px;
+}
+
+.portals h3 {
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #A52A2A;
+	margin: 5px 0px;
+	height: 30px;
+}
+
+.portal:link, .portal:visited {
+	display: block;
+	position: absolute;
+	height: 110px;
+	width: 250px;
+	overflow: hidden;
+	text-decoration: none;
+	color: #000000;
+	background-repeat: no-repeat;
+}
+
+.portal:hover {
+	color: #A52A2A;
+}
+
+.portal span {
+	display: block;
+	padding: 85px 5px 0px;
+}
+
+#pt_inv {
+	background-image: url(port_rh.gif);
+	left: 0px;
+}
+
+#pt_cmp {
+	background-image: url(port_cm.gif);
+	left: 260px;
+}
+
+#pt_mxj {
+	background-image: url(port_mj.gif);
+	left: 520px;
+}
+
+.info h2 {
+	font-size: 16pt;
+	font-weight: normal;
+	color: #706347;
+	margin: 25px 0px;
+}
+
+#services {
+	display: block;
+	position: relative;
+	overflow: auto;
+	background-color: #E2DCCD;
+	padding: 10px;
+}
+
+#servicelist {
+	display: inline;
+	position: relative;
+	float: left;
+	width: 220px;
+	background-color: #D4CAB5;
+}
+
+#servicelist ul {
+	display: block;
+	position: relative;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#servicelist ul li {
+	display: block;
+	position: relative;
+}
+
+#servicelist ul li a:link, #servicelist ul li a:visited {
+	display: block;
+	position: relative;
+	text-decoration: none;
+	color: #706347;
+	font-size: 11pt;
+	padding: 5px;
+	border-bottom: 1px solid #e2dccd;
+}
+
+#servicelist ul li a:hover {
+	background-color: #E2DCCD;
+}
+
+#servicelist ul li a.active:link, #servicelist ul li a.active:visited, #servicelist ul li a.active:hover {
+	background-color: #E2DCCD;
+	font-weight: bold; 
+}
+
+#servicedesc {
+	display: inline;
+	position: relative;
+	float: right;
+	width: 520px;
+	background-color: #ffffff;
+}
+
+#servicedesc h3, .info h3 {
+	display: block;
+	margin: 0px 0px 10px;
+	font-size: 14pt;
+	font-weight: normal;
+	color: #A52A2A;
+}
+
+.srvdesc {
+	display: block;
+	position: relative;
+	padding: 10px;
+}

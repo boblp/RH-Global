@@ -1,0 +1,19 @@
+#######################################
+#Configuracion PHP
+#######################################
+
+#php_value #include_path ".;D:\Proyectos\Invex\www_ad\htdocs\framework/;D:\Proyectos\Invex\www_ad\htdocs\secciones/"
+#php_value include_path ".:/home/rhglobal/public_html/admin/framework/:/home/rhglobal/public_html/admin/secciones/"
+#php_value register_globals 0
+#php_value magic_quotes_gpc 1
+#php_value short_open_tag 0
+
+
+#######################################
+#Redirecciones
+#######################################
+
+RewriteEngine On
+RewriteRule ^(clientes|operadores|reportes)/?$ index.php?base=$1
+RewriteRule salir$ index.php?salir=salir
+RewriteRule ^ajaxserver/([a-z0-9]+)\.ajax ajax/paws.php?servicio=$1

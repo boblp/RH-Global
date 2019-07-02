@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^nav/(clientes)(#[a-zA-Z]+)?$ /acceso.html$2
+RewriteRule ^nav/([a-z]+)(#[a-zA-Z]+)?$ /$1.html$2
+

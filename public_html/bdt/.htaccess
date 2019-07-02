@@ -1,0 +1,11 @@
+#php_value include_path ".;D:\Proyectos\Irpac\www\bdt\framework/;D:\Proyectos\Irpac\www\bdt\templates/"
+php_value include_path ".:/home/rhglobal/public_html/bdt/framework/:/home/rhglobal/public_html/bdt/templates/"
+php_value register_globals 0
+#php_value magic_quotes_gpc 1
+php_value short_open_tag 0
+
+
+RewriteEngine On
+# Setup User related URLs
+RewriteRule ^(nuevo|lista|usuarios)(/([a-z0-9A-Z]*))?$ index.php?base=$1&extra=$3&%{QUERY_STRING}
+RewriteRule ^ajax.xml$ quickajax.php

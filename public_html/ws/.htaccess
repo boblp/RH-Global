@@ -1,0 +1,17 @@
+#######################################
+#Configuracion PHP
+#######################################
+
+#php_value include_path ".;D:\Proyectos\Invex\www_ws\htdocs\framework/;D:\Proyectos\Invex\www_ws\htdocs\secciones/"
+#php_value include_path ".:/home/rhglobal/public_html/ws/framework/:/home/rhglobal/public_html/ws/secciones/"
+#php_value register_globals 0
+#php_value magic_quotes_gpc 1
+#php_value short_open_tag 0
+
+
+#######################################
+#Redirecciones
+#######################################
+
+RewriteEngine On
+RewriteRule ^aflax/service.xml?$ wscaller.php

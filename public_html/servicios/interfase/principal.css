@@ -1,0 +1,342 @@
+body {
+	background-color: #5e5e5e;
+	background-image: url(bgmain.gif);
+	background-repeat: repeat-x;
+	margin: 20px;
+	text-align: center;
+}
+
+* {
+	margin-top: 0px;
+	font-family: "Trebuchet MS", Verdana, Tahoma;
+}
+
+#main {
+	display: block;
+	position: relative;
+	width: 740px;
+	background-color: #ffffff;
+	margin: 0px auto;
+	text-align: left;
+	padding-bottom: 10px;
+	border-top: 10px solid #ffffff;
+}
+
+#encabezado {
+	position: relative;
+	margin: 0px 10px;
+	height: 80px;
+	background-image: url(headmain.gif);
+	overflow: hidden;
+}
+
+#navtop {
+	position: absolute;
+	top: 25px;
+	left: 155px;
+	width: 560px;
+	height: 55px;
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	overflow: hidden;
+}
+
+#navtop li {
+	list-style: none;
+	margin: 0px 5px 0px 0px;
+	padding: 0px;
+	position: relative;
+	width: 180px;
+	height: 55px;
+	float: left;
+}
+
+#navtop li a:link, #navtop li a:visited {
+	display: block;
+	width: 180px;
+	height: 55px;
+	text-align: center;
+	background-image: url(topbotones.gif);
+	background-position: 0px 0px;
+	text-decoration: none;
+	color: #f4f1ee;
+	padding-top: 20px;
+	font-size: 14pt;
+}
+
+#navtop li a:hover {
+	background-position: 0px -55px;
+	color: #ffffff;
+}
+
+#navtop li a.activo:link, #navtop li a.activo:visited, #navtop li a.activo:hover {
+	background-position: 0px -110px;
+	color: #9E988C;
+}
+
+#midbar {
+	position: relative;
+	margin: 10px;
+}
+
+#midbar p {
+	font-family: "Trebuchet MS", Verdana, Tahoma;
+	font-size: 13pt;
+	font-weight: normal;
+	color: #D3D0C9;
+	padding: 0px;
+	margin: 0px;
+}
+
+#midbar p#logout {
+	position: absolute;
+	right: 10px;
+	top: 5px;
+	font-size: 9pt;
+}
+
+#midbar p#logout a {
+	display: block;
+	padding-left: 20px;
+	background-image: url(ico_salir.gif);
+	background-repeat: no-repeat;
+	color: #9E988C;
+	text-decoration: none;
+}
+
+#cuerpo {
+	position: relative;
+	margin: 10px 10px 10px;
+	background-image: url(bodybg.gif);
+	background-repeat: repeat-x;
+	background-color: #F4F1EE;
+	height: 400px;
+	border-bottom: 1px solid #e6e4e1;
+}
+
+#main>#cuerpo {
+	height: auto;
+	min-height: 400px;
+}
+
+.nobreak {
+	display: block;
+	position: relative;
+	height: 10px;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+}
+
+.padder {
+	margin: 10px !important;
+}
+
+/* HERRAMIENTAS */
+
+#listado {
+	display: block;
+	float: left;
+	width: 420px;
+}
+
+#tlista {
+	width: 100%;
+	font-size: 9pt;
+	font-family: Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid #C2BFB6;
+}
+
+#tlista th {
+	margin: 0px;
+	padding: 0px 5px;
+	background-color: #D2691E;
+	border-top: 2px solid #B35B19;
+	text-align: left;
+	color: #F4F1EE;
+}
+
+th.tlnombre {
+	width: 45%;
+}
+
+#tlista tr.even td {
+	margin: 0px;
+	padding: 0px 5px;
+	background-color: #ffffff;
+	border-top: 1px solid #E6E4E1;
+	text-align: left;
+	color: #716B5F;
+	position: relative;
+}
+
+#tlista tr.odd td {
+	margin: 0px;
+	padding: 0px 5px;
+	background-color: #F7F6F4;
+	border-top: 1px solid #E6E4E1;
+	text-align: left;
+	color: #716B5F;
+	position: relative;
+}
+
+.ligaemp {
+	display: block;
+	height: 16px;
+	overflow: hidden;
+	background-image: url(agregaemp.gif);
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+}
+
+.ligaemp span {
+	margin-left: 18px;
+}
+
+#tlista a:link, #tlista a:visited {
+	text-decoration: none;
+	color: #b35b19;
+}
+
+#tlista a:hover {
+	color: #5e5e5e;
+}
+
+#tlista a img {
+	border: none;
+	margin: 2px;
+}
+
+.tagrega {
+	background-color: #C2BFB6;
+	text-align: right;
+	padding: 5px;
+}
+
+.fbot {
+	font-size: 9pt;
+}
+
+#editarea {
+	position: relative;
+	display: block;
+	float: right;
+	width: 250px;
+}
+
+#editarea input.ftxt, #editarea input.ftxt1, #editarea input.ftxt2, #editarea input.ftxt3, #editarea input.ftxt4, #editarea input.ftxt5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	border: 1px solid #C2BFB6;
+	background-color: #ffffff;
+	padding: 1px;
+}
+
+#editarea label {
+	display: block;
+	font-size: 10pt;
+	font-weight: normal;
+	color: #9E988C;
+}
+
+#editarea fieldset {
+	background-color: #E6E4E1;
+	border: none;
+	padding: 10px;
+	margin: 0px;
+	display: none;
+}
+
+#editarea fieldset legend {
+	color: #5E5E5E;
+	font-size: 11pt;
+	font-weight: bold;
+}
+
+#editarea fieldset p {
+	margin: 0px 0px 5px;
+	font-size: 10pt;
+	font-weight: normal;
+	color: #9E988C;
+}
+
+#editarea .ftxt {
+	width: 95%;
+}
+
+#editarea .ftxt2 {
+	width: 75%;
+}
+
+#editarea .ftxt3 {
+	width: 35%;
+}
+
+#editarea .ftxt4 {
+	width: 20%;
+}
+
+#editarea .ftxt5 {
+	width: 10%;
+}
+
+#editarea input.fbot {
+	margin: 5px;
+}
+
+#editarea span#f2nombrecan {
+	font-size: 8pt;
+	padding-left: 10px;
+	color: #716B5F;
+	vertical-align: super;
+}
+
+#editarea p.psub {
+	text-align: center;
+	background-color: #ACA7A4;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+#olemp {
+	display: block;
+	background-color: #ACA7A4;
+	padding: 2px 2px 0px 2px;
+	margin: 0px;
+	list-style: none;
+}
+
+#olemp li {
+	background-color: #F4F1EE;
+	padding: 1px 3px;
+	margin: 0px;
+	border-bottom: 2px solid #aca7a4;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #ACA7A4;
+}
+
+#listado h3, #editarea h3, #listadofull h3 {
+	font-size: 16pt;
+	font-weight: normal;
+	color: #c2bfb6;
+	border-bottom: 1px solid #E6E4E1;
+}
+
+
+
+#pie {
+	display: block;
+	position: relative;
+	margin: 0px 10px;
+	background-color: #D3D0C9;
+}
+
+#pie p {
+	margin: 0px;
+	padding: 10px;
+	color: #9E988C;
+	font-size: 11pt;
+}

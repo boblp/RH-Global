@@ -1,0 +1,331 @@
+body {
+	background-color: #717A5B;
+	text-align: center;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+#container {
+	background-color: #ffffff;
+	width: 700px;
+	margin: auto;
+	overflow: hidden;
+	text-align: left;
+}
+
+#mainhead {
+	display: block;
+	position: relative;
+	width: 700px;
+	height: 110px;
+	background-image: url(head.gif);
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+#menumain {
+	display: block;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 70px;
+	right: 10px;
+	height: 40px;
+	overflow: hidden;
+}
+
+#menumain li {
+	display: block;
+	height: 40px;
+	width: 120px;
+	float: right;
+	list-style: none;
+	padding: 0px;
+	margin: 0px 0px 0px 2px;
+}
+
+#menumain li a:link, #menumain li a:visited {
+	display: block;
+	position: relative;
+	width: 120px;
+	height: 40px;
+	background-position: 0px -40px;
+}
+
+#menumain li a:hover {
+	background-position: 0px -80px;
+}
+
+#menumain li.current a:link, #menumain li.current a:visited, #menumain li.current a:hover {
+	background-position: 0px 0px !important;
+}
+
+a.nuevo {
+	background-image: url(btn_nuevo.gif);
+}
+
+a.lista {
+	background-image: url(btn_lista.gif);
+}
+
+a.socios {
+	background-image: url(btn_socios.gif);
+}
+
+#menumain li a span {
+	display: block;
+	position: relative;
+	padding-top: 45px;
+}
+
+#mainfoot {
+	display: block;
+	position: relative;
+	width: 700px;
+	height: 30px;
+	overflow: hidden;
+	background-image: url(foot.gif);
+	background-repeat: no-repeat;
+}
+
+#content {
+	display: block;
+	position: relative;
+	width: 700px;
+	background-image: url(mainbg.gif);
+	background-repeat: repeat-y;
+	overflow: hidden;
+}
+
+#contentop {
+	display: block;
+	position: relative;
+	width: 700px;
+	height: 10px;
+	overflow: hidden;
+	background-image: url(topbg.gif);
+	background-repeat: no-repeat;
+}
+
+#main {
+	padding: 0px 20px;
+}
+
+h2 {
+	font-family: "Trebuchet MS", Verdana, Tahoma, sans-serif;
+	color: #717A5B;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+/* Formulario */
+
+form h3 {
+	background-image: url(formsec.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin: 15px 0px 0px;
+	padding: 2px 5px;
+	font-family: "Trebuchet MS", Verdana, Tahoma, sans-serif;
+	font-weight: normal;
+	font-size: 13pt;
+	color: #444732;
+	height: 14pt;
+}
+
+table.forma {
+	border: none;
+	width: 100%;
+}
+
+table.subforma {
+	border: 1px solid #444732;
+	font-size: 8pt;
+	width: 100%;
+}
+
+td.label {
+	background-color: #444732;
+	color: #ffffff;
+	font-weight: bold;
+	border-left: 1px solid #717a5b;
+}
+
+td.field {
+	background-color: #ffffff;
+	color: #292A1C;
+	border-left: 1px solid #717a5b;
+}
+
+.primero {
+	border-left: none !important;
+}
+
+.subforma input.textpand, .subforma select, .ffs input.mf_l, .ffs input.mf_e {
+	border: none;
+	background-color: #ffffff;
+}
+
+.highlighted {
+	background-image: url(bginput.gif);
+	background-repeat: repeat-y;
+}
+
+fieldset.ffs {
+	border: none;
+	padding: 5px;
+	margin: 5px;
+	display: block;
+	background-color: #EDEEE5;
+}
+
+.ffs input.mf_l, .ffs input.mf_e, .ffs input.highlighted {
+	background-image: url(bgminiinput.gif) !important;
+	background-position: right !important;
+	background-repeat: repeat-y !important;
+	border: none  !important;
+}
+
+.elemento {
+	border-bottom: 1px solid #717a5b;
+	padding: 5px;
+	margin: 5px;
+	display: block;
+	background-color: #F7F7F3;
+}
+
+.elemento p {
+	margin: 0px;
+}
+
+#oksaved {
+	background-color: #FFFFCC;
+	border: 1px solid #444732;
+	padding: 5px;
+	font-family: "Trebuchet MS", Verdana, Tahoma, sans-serif;
+	font-size: 12pt;
+}
+
+.listadomain {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	width: 100%;
+}
+
+.full {
+	width: 100%;
+}
+
+.part {
+	width: 450px;
+	float: left;
+}
+
+.listadomain thead th, .listadomain tfoot td {
+	background-color: #444732;
+	color: #ffffff;
+	padding: 5px;
+	text-decoration: none;
+}
+
+.listadomain thead th a:link, .listadomain thead th a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.listadomain thead th a:hover {
+	color: #FFFF8A;
+}
+
+.listadomain tbody td {
+	padding: 3px 5px;
+}
+
+.listadomain tbody tr.even td{
+	background-color: #ffffff;
+}
+
+.listadomain tbody tr.odd td{
+	background-color: #EDEEE5;
+}
+
+.listadomain tfoot td a:link, .listadomain tfoot td a:visited {
+	text-decoration: none;
+	color: #FFFF8A;
+}
+
+.listadomain tfoot td a:hover {
+	color: #ffffff;
+}
+
+.listadomain tfoot td span {
+	color: #DADDCA;
+}
+
+span.borrar, span.editar {
+	color: #0066CC;
+	cursor: pointer;
+}
+
+.deleted td {
+	text-decoration: line-through;
+}
+
+.listools {
+	text-align: right;
+	margin: 30px 0px;
+}
+
+#editarea {
+	width: 200px;
+	display: inline;
+	float: right;
+}
+
+#addnew {
+	color: #0066CC;
+	font-size: 10pt;
+	cursor: pointer;
+	width: 450px;
+}
+
+.editform {
+	position: relative;
+	display: block;
+	width: 200px;
+}
+
+.inactivo td{
+	text-decoration: line-through;
+}
+
+.editform form {
+	margin: 0px;
+}
+
+.editform form p.input {
+	position: relative;
+	display: block;
+	margin: 5px 0px;
+	background-color: #ffffff;
+	border: 1px solid #717a5b;
+}
+
+label.block {
+	display: block;
+	height: 1em;
+	background-color: #717A5B;
+	color: #ffffff;
+	padding: 3px;
+	font-size: 9pt;
+	font-weight: bold;
+	margin: 0px;
+}
+
+p.input input {
+	display: block;
+	position: relative;
+	border: 0px none #ffffff;
+	width: 97%;
+	margin: 0px;
+}
