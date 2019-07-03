@@ -121,7 +121,7 @@ switch ($_POST["accion"]) {
 	break;
 	case "procesacand":
 		$jsres = "pawsengine=true;";
-		$bd->correr("update candidatos set estatus=if(estatus=1,2,estatus-1), msgcte = if(msgcte is null,'',concat('Actualizado: ',now())), tsinicio=if(tsinicio<1,now(),tsinicio) where candidato_id=".$_POST["candidato_id"]." and usuario_id=".$usr->idu);
+		$bd->correr("update candidatos set estatus=if(estatus=1,2,estatus-1), msgcte = if(msgcte is null,'',concat('Actualizado: ',now())), tsinicio=now() where candidato_id=".$_POST["candidato_id"]." and usuario_id=".$usr->idu);
 		$jsres.= getListaCand();
 		$resultado=1;
 		$mensaje="OK";
