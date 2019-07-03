@@ -84,9 +84,10 @@ switch ($_POST["accion"]) {
 	case "guardacand":
 		$jsres = "pawsengine=true;";
 		$_POST["usuario_id"] = $usr->idu;
-		$_POST["tsinicio"] = "00000000000000";
-		$_POST["tsfin"] = "00000000000000";
+		$_POST["tsinicio"] = date("Y-m-d H:i:s");
+		$_POST["tsfin"] = date("Y-m-d H:i:s");
 		$_POST["estatus"] = "1";
+		$_POST["tsmain"] = date("Y-m-d H:i:s");
 		$bd->agrega($qf->insert("candidatos",$_POST));
 		$jsres.= getListaCand();
 		$resultado=1;
